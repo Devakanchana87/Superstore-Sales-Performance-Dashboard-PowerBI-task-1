@@ -26,5 +26,5 @@ covering revenue trends, top products, and regional performance.
 - Page 3: Regional Analysis
 
 ## Dashboard PDF 
-- [Sales_Performance_Dashboard.pdf] ( click here to view dashboard)
+- [Sales_Performance_Dashboard.pdf] (https://github.com/Devakanchana87/Superstore-Sales-Performance-Dashboard-PowerBI-task-1/blob/bac875700f6d0772808b77613a9330baeabb194d/Sales_Performance_Dashboard.pdf)
 ## Dashboard link 
