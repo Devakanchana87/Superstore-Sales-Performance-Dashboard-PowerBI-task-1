@@ -24,3 +24,7 @@ covering revenue trends, top products, and regional performance.
 - Page 1: Sales Performance Overview
 - Page 2: Top Products Analysis  
 - Page 3: Regional Analysis
+
+## Dashboard PDF 
+- [Sales_Performance_Dashboard.pdf] ( click here to view dashboard)
+## Dashboard link 
