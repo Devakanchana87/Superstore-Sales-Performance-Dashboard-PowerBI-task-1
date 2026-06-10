@@ -28,3 +28,4 @@ covering revenue trends, top products, and regional performance.
 ## Dashboard PDF 
 - [Sales_Performance_Dashboard.pdf] (https://github.com/Devakanchana87/Superstore-Sales-Performance-Dashboard-PowerBI-task-1/blob/bac875700f6d0772808b77613a9330baeabb194d/Sales_Performance_Dashboard.pdf)
 ## Dashboard link 
+-[Power BI link ] ( https://github.com/Devakanchana87/Superstore-Sales-Performance-Dashboard-PowerBI-task-1/blob/bac875700f6d0772808b77613a9330baeabb194d/Sales_Performance_Dashboard.pbix )
